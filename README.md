@@ -1,0 +1,1 @@
+You download the .rar file, you put it somewhere you like. You write stuff you like into there and categorise by Album, Artist, or Song. It automatically sorts everything you put Alphabetically. You can easily remove stuff by pressing on the X. You do have to save and import the vault each time you want to save or load, but I'm going to make a V2 soon that works better.
